@@ -2,8 +2,6 @@ install: true
 
 language: c
 
-script: scons
-
 compiler:
   - clang
   - gcc
