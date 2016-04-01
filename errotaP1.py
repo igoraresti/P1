@@ -214,10 +214,10 @@ nota = []
 for i in range(0,7):
     nota.append(0)
 
-nota[0] = test_ex00("igor")
-nota[1] = test_ex01("igor")
-nota[2] = test_ex02("igor")
-nota[3] = test_ex03("igor")
-nota[4] = test_ex04("igor")
-nota[5] = test_ex05("igor")
-nota[6] = test_ex06("igor")
+nota[0] = test_ex00("resultado")
+nota[1] = test_ex01("resultado")
+nota[2] = test_ex02("resultado")
+nota[3] = test_ex03("resultado")
+nota[4] = test_ex04("resultado")
+nota[5] = test_ex05("resultado")
+nota[6] = test_ex06("resultado")
