@@ -1,13 +1,6 @@
-import subprocess, threading
-from email.mime.text import MIMEText
-from email.mime.application import MIMEApplication
-from email.mime.multipart import MIMEMultipart
-from smtplib import SMTP
-import smtplib
-import sys
-import MySQLdb
-from mysql.connector import (connection)
-from array import array
+import subprocess
+#import sys
+#from array import array
 
 # funcion para escribir el resultado de la practica
 
