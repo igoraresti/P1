@@ -4,6 +4,7 @@ import subprocess
 
 # funcion para escribir el resultado de la practica
 
+
 def escribe_fichero(dni_alumno, msg):
     with open(dni_alumno, 'a') as f:
         f.write(msg)
